@@ -1,0 +1,29 @@
+# Dependencias
+node_modules/
+
+# Compilación y caché
+dist/
+.angular/
+out-tsc/
+coverage/
+*.tsbuildinfo
+
+# Variables de entorno locales
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Configuración y archivos de herramientas locales
+.codex/
+.agent/
+.agents/
+.superpowers/
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
